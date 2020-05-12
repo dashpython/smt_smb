@@ -29,7 +29,6 @@ flask-restplus==0.13.0
 Flask-SeaSurf==0.2.2
 Flask-SocketIO==4.2.1
 Flask-SQLAlchemy==2.4.1
-functools32==3.2.3.post2
 future==0.18.2
 gevent==1.4.0
 gevent-websocket==0.10.1
@@ -51,7 +50,6 @@ parse==1.15.0
 pathlib==1.0.1
 pathlib2==2.3.5
 peewee==3.13.1
-pkg-resources==0.0.0
 plotly==4.5.3
 protobuf==3.6.1
 psycopg2-binary==2.8.5
